@@ -1,6 +1,6 @@
 # UTS-PPAM
 
 ## Identitas
-###Nama : Wiki Nurrohman
-###NIM : 1217050140
-###Kelas : Teknik Informatika A
+Nama : Wiki Nurrohman <br/>
+NIM : 1217050140 <br/>
+Kelas : Teknik Informatika A <br/>
